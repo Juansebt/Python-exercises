@@ -1,0 +1,9 @@
+XXX123,Mazda,Blanco
+ZAQ444,Renault,Rojo
+RRR999,Toyota,Negro
+CCC777,Mazda,Azul
+YYY222,Lamborghini,Gris
+ZZZ333,Ferrari,Verde
+OPQ678,Audi,Azul
+XYZ321,Tesla,Negro
+ABC987,BMW,Amarillo

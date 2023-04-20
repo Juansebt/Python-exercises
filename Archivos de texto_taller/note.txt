@@ -1,0 +1,3 @@
+01,Juan Sebastián,Laguna Yara,juansebt@gmail.com,MASCULINO
+02,Maira Fernanda,Osorio Flores,maira@gmail.com,FEMENINO
+03,jaja,jaja,jaja,FEMENINO
